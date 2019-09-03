@@ -8,7 +8,7 @@
 
     <Button
         android:id="@+id/btnNormalBinding"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Normal Binding"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -19,7 +19,7 @@
 
     <Button
         android:id="@+id/btnBaseobservable"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
@@ -33,7 +33,7 @@
 
     <Button
         android:id="@+id/btnObservableField"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
@@ -47,8 +47,8 @@
 
     <Button
         android:id="@+id/btnLiveData"
-        android:layout_width="121dp"
-        android:layout_height="52dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="36dp"
