@@ -1,0 +1,5 @@
+Git Hub
+https://github.com/journaldev/journaldev/tree/master/Android/AndroidMVVMDataBindingLiveData
+
+Tutorial
+https://www.journaldev.com/22561/android-mvvm-livedata-data-binding
