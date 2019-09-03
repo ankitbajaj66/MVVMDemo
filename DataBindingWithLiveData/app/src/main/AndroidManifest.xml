@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".NormalBinding" />
+        <activity android:name=".BaseObservableBinding" />
+        <activity android:name=".ObservableFieldBinding" />
+        <activity android:name=".LiveDataBinding"></activity>
     </application>
 
 </manifest>
